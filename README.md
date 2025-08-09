@@ -27,11 +27,11 @@ I'm a **Computer Science student at [Telkom University](https://telkomuniversity
 ## GitHub Overview
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RozhakDev&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RozhakDev&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" height="110"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RozhakDev&layout=compact&theme=radical&hide_border=false&card_width=400" alt="Top Langs" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RozhakDev&layout=compact&theme=radical&hide_border=false&card_width=400" alt="Top Langs" height="110"/>
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RozhakDev&theme=radical&hide_border=false" alt="Top Langs" height="120"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RozhakDev&theme=radical&hide_border=false" alt="Top Langs" height="110"/>
 </p>
 
 ## Connect with Me
