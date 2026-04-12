@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Rozhak](https://rozhak.my.id)!
+# 👋 Hi there! I'm [Rozhak](https://www.rozhak.xyz/)!
 
 I'm a **Computer Science student at [Telkom University](https://telkomuniversity.ac.id/)**, driven by a passion for building intelligent systems since **2020**. **Python** is my *core language* and foundation, powering everything I do—from **machine learning pipelines** and automation to scalable production systems.
 
@@ -20,11 +20,16 @@ My world revolves around **machine learning engineering**, **full-stack developm
 ![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&color=00599C)
 ![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=postgresql&color=336791)
 ![Ruby](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&color=CC342D)
+![Dart](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&color=0175C2)
 <!-- Frameworks -->
 ![TailwindCSS](https://img.shields.io/badge/Framework-TailwindCSS-informational?style=flat&logo=tailwind-css&color=38B2AC)
 ![Django](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&color=092E20)
 ![Flask](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&color=000000)
 ![FastAPI](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=fastapi&color=009688)
+![Flutter](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&color=02569B)
+![Express.js](https://img.shields.io/badge/Framework-Express.js-informational?style=flat&logo=express&color=000000)
+![React](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB)
+![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000)
 <!-- Tools -->
 ![Git](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&color=F05032)
 ![Docker](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&color=2496ED)
