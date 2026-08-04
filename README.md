@@ -1,12 +1,12 @@
 # 👋 Hi there! I'm [Rozhak](https://www.rozhak.xyz/)!
 
-I'm a **Computer Science student at [Telkom University](https://telkomuniversity.ac.id/)**, driven by a passion for building intelligent systems since **2020**. **Python** is my *core language* and foundation, powering everything I do—from **machine learning pipelines** and automation to scalable production systems.
+I'm the **Chief Executive Officer of [PT Langit Kode Nusantara](https://www.langitkode.co.id/)**, driven by a passion for engineering intelligent software systems since **2020**. **Python** is my *core language* and foundation, powering everything I build—from **machine learning systems** and intelligent automation to scalable production-grade software.
 
-My world revolves around **machine learning engineering**, **full-stack development**, **Android development**, and **cybersecurity**. I enjoy designing end-to-end solutions where models, APIs, and applications work seamlessly together to solve real-world problems.
+My world revolves around **machine learning engineering**, **full-stack software engineering**, and **mobile application development**. I enjoy designing end-to-end software ecosystems where intelligent models, backend services, web platforms, and mobile applications work together seamlessly to solve real-world challenges.
 
-*Curious and committed to growth*, I’m currently developing **[Lisensiku](https://www.lisensiku.biz.id/)**, a deployed **API key management system**, while continuously exploring how ML and automation can create smarter, more reliable systems.
+As both an executive and engineer, I remain deeply involved in shaping technology strategy while leading the development of **production-ready AI**, scalable software architecture, and modern digital products. I believe impactful innovation begins with strong engineering principles, long-term maintainability, and solutions that deliver measurable value beyond the code itself.
 
-*Want to talk about ML, systems, or security? I’m always open to building something impactful.*
+*Always exploring better ways to engineer intelligent systems. If you're interested in AI, software engineering, or building technology with real-world impact, I'd be glad to connect.*
 
 ## Languages & Tools
 
@@ -21,6 +21,7 @@ My world revolves around **machine learning engineering**, **full-stack developm
 ![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=postgresql&color=336791)
 ![Ruby](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&color=CC342D)
 ![Dart](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&color=0175C2)
+![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
 <!-- Frameworks -->
 ![TailwindCSS](https://img.shields.io/badge/Framework-TailwindCSS-informational?style=flat&logo=tailwind-css&color=38B2AC)
 ![Django](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&color=092E20)
@@ -30,6 +31,7 @@ My world revolves around **machine learning engineering**, **full-stack developm
 ![Express.js](https://img.shields.io/badge/Framework-Express.js-informational?style=flat&logo=express&color=000000)
 ![React](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB)
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000)
+![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
 <!-- Tools -->
 ![Git](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&color=F05032)
 ![Docker](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&color=2496ED)
@@ -42,6 +44,7 @@ My world revolves around **machine learning engineering**, **full-stack developm
 ![SQLite](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&color=003B57)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&color=4479A1)
 ![Firebird](https://img.shields.io/badge/Database-Firebird-informational?style=flat&logo=firebird&color=EE4000)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&color=4169E1)
 <!-- Machine Learning -->
 ![TensorFlow](https://img.shields.io/badge/ML-TensorFlow-informational?style=flat&logo=tensorflow&color=FF6F00)
 ![Keras](https://img.shields.io/badge/ML-Keras-informational?style=flat&logo=keras&color=D00000)
